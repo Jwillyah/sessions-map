@@ -1,0 +1,24 @@
+[
+  {
+    "id": "live1",
+    "type": "live",
+    "creator": "swelltographer",
+    "location": "Virginia Beach Pier",
+    "lat": 36.8375,
+    "lng": -75.9750,
+    "time": "2025-08-14T14:00:00Z",
+    "shot_type": "photo",
+    "avatar": "https://placehold.co/48x48?text=VB"
+  },
+  {
+    "id": "past1",
+    "type": "past",
+    "creator": "surfcamron",
+    "location": "Wrightsville Beach Jetty",
+    "lat": 34.2081,
+    "lng": -77.7964,
+    "time": "2025-08-12T10:00:00Z",
+    "shot_type": "video",
+    "avatar": "https://placehold.co/48x48?text=WR"
+  }
+]
